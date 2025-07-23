@@ -6,6 +6,9 @@ Este proyecto permite simular la evolución de un sistema de partículas bajo di
 - Definición de partículas y estados del sistema.
 - Integradores modulares.
 - Método de Euler implementado.
+- Método de Leapfrog implementado.
+- Método de RK-8 implementado.
+- Método de Burlisch-Stoer implementado.
 - Entrada desde archivo `.csv`.
 - Visualización 2D de trayectorias.
 
